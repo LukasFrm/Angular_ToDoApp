@@ -9,3 +9,19 @@
     padding: 5px;
     margin: 15px
 }
+
+.btn {
+    float: right
+}
+
+input[type='checkbox'] {
+
+    width:30px;
+    height:30px;
+    margin: none;
+}
+
+p {
+    font-size: 1.5em;
+}
+

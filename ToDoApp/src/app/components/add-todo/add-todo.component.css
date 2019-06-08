@@ -1,0 +1,32 @@
+.form {
+    /* margin: 15px; */
+    display: inline-block;
+
+}
+
+.form input {
+    min-width: 250px;
+    margin: 15px;;
+
+}
+
+.form input [type='text'] {
+    padding: 15px;
+}
+
+
+
+.form input [type='placeholder'] {
+    margin: 15px;
+    
+}
+
+.btn {
+    /* margin: 5px; */
+    background-color: green;
+    color:white;
+    display: inline-block;
+
+    
+
+}

@@ -3,6 +3,6 @@
   <p>
     <input (change)="onToggle(todo)" type="checkbox" [checked] = "todo.completed" />
     {{ todo.title }}
-    <button (click)="onDelete(todo)" class='btn btn-warning'>Delete</button>
+    <button (click)="onDelete(todo)" class='btn btn-danger'>Delete</button>
   </p>
 </div>
